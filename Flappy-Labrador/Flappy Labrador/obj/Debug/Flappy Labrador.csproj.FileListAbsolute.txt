@@ -1,0 +1,10 @@
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\bin\Debug\Flappy Labrador.exe.config
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\bin\Debug\Flappy Labrador.exe
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\bin\Debug\Flappy Labrador.pdb
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy Labrador.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy_Labrador.Form1.resources
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy_Labrador.Properties.Resources.resources
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy Labrador.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy Labrador.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy Labrador.exe
+C:\Users\sinan\source\repos\Flappy Labrador\Flappy Labrador\obj\Debug\Flappy Labrador.pdb
